@@ -1,0 +1,6 @@
+Using an arrow function to define a functional component.
+Functional components are just JavaScript functions that return JSX (HTML-like syntax for React).
+
+Images/Video:
+    Always in public folder
+    img src . (dot) always points to public folder
