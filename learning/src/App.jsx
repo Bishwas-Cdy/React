@@ -30,16 +30,15 @@
 //
 // export default App
 
-
 // import LearnUseState1 from "./learnUseState/LearnUseState1.jsx";
 //
 import MyRoutes from "./component/MyRoutes.jsx";
 
 const App = () => {
-    return (
-        <>
-        <MyRoutes></MyRoutes>
-        </>
-    );
+  return (
+    <>
+      <MyRoutes></MyRoutes>
+    </>
+  );
 };
 export default App;
